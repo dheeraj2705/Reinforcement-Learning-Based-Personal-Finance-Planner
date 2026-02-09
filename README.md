@@ -1,7 +1,7 @@
 
-# RL for Personal Finance — Paper Replica
+# RL for Personal Finance 
 
-This project replicates the core setup described in *"Reinforcement Learning for Personal Finance Management"* (state = [income, savings, investments, expenses]; discrete allocation actions; stochastic investment returns; Q-learning via DQN).
+This project which has core setup described in *"Reinforcement Learning for Personal Finance Management"* (state = [income, savings, investments, expenses]; discrete allocation actions; stochastic investment returns; Q-learning via DQN).
 
 ## Environment
 
