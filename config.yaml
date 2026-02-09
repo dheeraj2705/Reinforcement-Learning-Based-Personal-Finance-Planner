@@ -1,0 +1,6 @@
+
+seed: 7
+episodes: 300
+steps_per_ep: 120
+batch_size: 64
+lr: 0.001
